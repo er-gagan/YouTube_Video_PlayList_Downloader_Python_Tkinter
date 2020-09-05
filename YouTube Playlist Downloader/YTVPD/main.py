@@ -76,7 +76,6 @@ Button(root,text="Search",font=('Calibri',15),command=Search).place(x=1000,y=83)
 
 l1 = Label(root,font=('Calibribold',15))
 l1.place(x=20,y=118)
-# https://www.youtube.com/playlist?list=PLRvEAoctXa6dIz135lrQUnF6YUYR8zlAm
 l2 = Label(root,font=('Calibribold',13))
 l2.place(x=30,y=145)
 
